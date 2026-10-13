@@ -1,17 +1,5 @@
-# flutter_application_2
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Level 3 — Brush It Right (simulasi sikat gigi)
+C3 · Menerapkan
+Aktivitas: Anak membantu karakter mempraktikkan langkah menyikat gigi melalui simulasi, misalnya memilih sikat dan pasta gigi, lalu menggerakkan sikat pada bagian-bagian gigi.
+Tujuan: Anak menerapkan pengetahuan tentang cara merawat gigi dalam sebuah simulasi.
+Bentuk gameplay: Simulasi interaktif, bukan sekadar menyusun urutan kartu.
